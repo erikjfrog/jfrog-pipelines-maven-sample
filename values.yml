@@ -1,4 +1,4 @@
-gitProvider: manishas_jfrog
+gitProvider: myGit
 artifactory: demoArt
-repoPath: manishas-jfrog/jfrog-pipelines-maven-sample
+repoPath: erikjfrog/jfrog-pipelines-maven-sample
 deployerRepo: maven-local
