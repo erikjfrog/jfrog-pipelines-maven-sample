@@ -1,4 +1,4 @@
-gitProvider: myGit
+gitProvider: erika
 artifactory: demoArt
 repoPath: erikjfrog/jfrog-pipelines-maven-sample
 deployerRepo: maven-local
