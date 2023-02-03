@@ -1,0 +1,4 @@
+myRepo:
+  gitProvider: erika  
+  path: erikjfrog/jfrog-pipelines-simple-example
+  deployerRepo: maven-local
